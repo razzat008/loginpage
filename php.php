@@ -102,7 +102,7 @@ if(isset($_POST['signup'])){
   </div>
 </nav>
     <section class="hero is-primary is-fullheight">
-      <div class="hero-body"
+      <div class="hero-body">
     <div class="columns">
           <div class="column is-half is-offset-one-quarter">
             <form action="php.php" method="post">
