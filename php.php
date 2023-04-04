@@ -128,7 +128,7 @@ if(isset($_POST['signup'])){
 </div>
 <div class="buttons">
   <button class="button is-light" name="signup">Sign Up</button>
-  <button class="button is-dark name=""login">Log In</button>
+  <button class="button is-dark name="login">Log In</button>
 </div>
           </div>
       </div>
